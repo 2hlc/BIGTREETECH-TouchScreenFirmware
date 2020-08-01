@@ -1,5 +1,2 @@
-ImageMagick command
-
-convert Reserve_6.bmp -alpha set -define bmp:format=bmp3 -define bmp3:alpha=true Reserve_6.bmp
-
-
+The iconpack "Round Miracle" was made by Sergey Alexeyev (Acenotass). GIMP and Paint.NET graphic editors were used to create the icons.
+email: s.n.alexeyev@gmail.com
